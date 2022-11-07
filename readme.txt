@@ -3,7 +3,7 @@ Steps to run the addressbook application.
 1. Either download the app folder from github https://github.com/mvrkmvrkmvrk/addressbookapp
 or from the attached email.
 
-2. Install necessary modules to run the fast api app, after you have already installed pytho 3.
+2. Install necessary modules to run the fast api app, after you have already installed python 3.
 
 	- pip install fastapi
 	- pip install uvicorn
